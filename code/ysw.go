@@ -1,5 +1,5 @@
 package code
 
-func getYsw() string {
+func GetYsw() string {
 	return "ysw"
 }
